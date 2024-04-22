@@ -1,2 +1,9 @@
 # track-mouse-position
-Created with CodeSandbox
+
+## Tech Stack
+ReactJS, Javascript, HTML, CSS
+
+## Topics
+states implementation
+event listeners
+
